@@ -29,7 +29,7 @@
 1. **Botの起動**
     - コードをPythonで実行してBotを起動します:
       ```sh
-      python bot.py
+      python app.py
       ```
     - Botは指定されたトークンでDiscordサーバーに接続し、ロールの付与処理を行います。
 
